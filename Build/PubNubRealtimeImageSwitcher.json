@@ -1,0 +1,13 @@
+{
+"companyName": "Unity",
+"productName": "Example Project",
+"dataUrl": "PubNubRealtimeImageSwitcher.data.unityweb",
+"asmCodeUrl": "PubNubRealtimeImageSwitcher.asm.code.unityweb",
+"asmMemoryUrl": "PubNubRealtimeImageSwitcher.asm.memory.unityweb",
+"asmFrameworkUrl": "PubNubRealtimeImageSwitcher.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
